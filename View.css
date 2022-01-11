@@ -1,0 +1,56 @@
+body{
+    font-family: monospace;
+    background-color: rgb(223, 164, 154);
+} 
+.head{
+    width:95%;
+    text-align: center;
+    background: rgb(228, 123, 123);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    color:whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.form{
+    width:75%;
+    text-align: center;
+    background: rgb(228, 123, 123);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    color:whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.table1,td{
+    width:75%;
+    text-align: center;
+    background: rgb(228, 123, 123);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    color:whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.table2,th,td{
+    width:75%;
+    text-align: center;
+    background: rgb(228, 123, 123);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    color:whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}

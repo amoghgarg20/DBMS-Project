@@ -1,0 +1,34 @@
+/* Style Page */
+/* Same for both Signup and Login */
+body{
+    background: rgb(228, 123, 123);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    font-family: monospace;
+    color: blanchedalmond;
+}
+.signup{
+    width: 80%;
+    background-color: rgb(233, 161, 161);
+    border: 2px solid rgb(231, 216, 216);
+    border-radius: 4px;
+    padding: 10px;
+    max-width: 750px;
+    float: none;
+    margin: 50px auto;
+    font-family: monospace;
+}
+.redirect{
+    background-color: rgb(233, 161, 161);
+    border: 2px solid rgb(231, 216, 216);
+    max-width: 600px;
+    border-radius: 4px;
+    text-align: center;
+    margin:auto;
+}
